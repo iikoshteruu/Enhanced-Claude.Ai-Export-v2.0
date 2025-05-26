@@ -2,7 +2,7 @@
 
 [![Version](https://img.shields.io/badge/version-2.1-blue.svg)](https://github.com/iikoshteruu/enhanced-claude-export)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![Greasyfork](https://img.shields.io/badge/install-greasyfork-red.svg)](https://greasyfork.org/scripts/YOUR_SCRIPT_ID)
+[![Greasyfork](https://img.shields.io/badge/install-greasyfork-red.svg)](https://greasyfork.org/en/scripts/537242-enhanced-claude-ai-export-v2-1)
 
 A powerful userscript that allows you to export your Claude.ai conversations in multiple formats with improved reliability and features.
 
@@ -158,7 +158,7 @@ Found a bug or want to add a feature? Contributions are welcome!
 
 - **Original Script**: [TheAlanK](https://github.com/TheAlanK) & SAPIENT
 - **Enhanced Version**: [iikoshteruu](https://github.com/iikoshteruu?tab=repositories)
-- **Based on**: [Export Claude.Ai v1.1-miniaturized](https://greasyfork.org/scripts/478826)
+- **Based on**: [Export Claude.Ai v1.1-miniaturized](https://greasyfork.org/en/scripts/537242-enhanced-claude-ai-export-v2-1)
 
 ## 📄 License
 
@@ -166,7 +166,7 @@ MIT License - feel free to modify and distribute!
 
 ## 🔗 Links
 
-- [Original Script on Greasyfork](https://greasyfork.org/scripts/478826)
+- [Original Script on Greasyfork](https://greasyfork.org/en/scripts/537242-enhanced-claude-ai-export-v2-1)
 - [Claude.ai](https://claude.ai)
 - [Userscript Managers](https://openuserjs.org/about/Userscript-Beginners-HOWTO)
 
